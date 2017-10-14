@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/cynux/fb/posterific/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_configrotate.png",
+        "source": "/home/cynux/fb/posterific/android/app/src/main/res/drawable-mdpi/assets_images_configrotate.png"
+    },
+    {
+        "merged": "/home/cynux/fb/posterific/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_configbackground.png",
+        "source": "/home/cynux/fb/posterific/android/app/src/main/res/drawable-mdpi/assets_images_configbackground.png"
+    },
+    {
+        "merged": "/home/cynux/fb/posterific/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_configphoto.png",
+        "source": "/home/cynux/fb/posterific/android/app/src/main/res/drawable-mdpi/assets_images_configphoto.png"
+    },
+    {
+        "merged": "/home/cynux/fb/posterific/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_configcaption.png",
+        "source": "/home/cynux/fb/posterific/android/app/src/main/res/drawable-mdpi/assets_images_configcaption.png"
+    },
+    {
+        "merged": "/home/cynux/fb/posterific/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_posterplaceholderlandscape.png",
+        "source": "/home/cynux/fb/posterific/android/app/src/main/res/drawable-mdpi/assets_images_posterplaceholderlandscape.png"
+    },
+    {
+        "merged": "/home/cynux/fb/posterific/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_facebookmessenger.png",
+        "source": "/home/cynux/fb/posterific/android/app/src/main/res/drawable-mdpi/assets_images_facebookmessenger.png"
+    },
+    {
+        "merged": "/home/cynux/fb/posterific/android/app/build/intermediates/res/merged/debug/drawable-mdpi/assets_images_posterplaceholderportrait.png",
+        "source": "/home/cynux/fb/posterific/android/app/src/main/res/drawable-mdpi/assets_images_posterplaceholderportrait.png"
+    }
+]

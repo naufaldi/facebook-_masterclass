@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_a0dd2ea66e9c06065b68de9f4fd2df1e406cc09d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.yalantis-ucrop-2.2.0-native_2abbf90dbe9be372d9767a737d2c5cd5261afe39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_00fa4776eba79f3b87eed15ba9aa2b5c01a794a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_c7d8520ec8c9d0e9d8106d51dfdbb461c694b0a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_148fadc7e7daf34dfe1696b081fd6d07aa92cdef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_b7be28268d34c859c7088a8ca1ad43f501d59a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_6bf40f737096e6b7d7b23439ef100b6ff78906c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_bdd6c8001ca97ba91249bada553b7384362169fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.4_5b46ecdcb4a6b9ded258f1141c010b66bc90011b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_61f5c3fd9ab3e978c013b3eb7f4ab69668718335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_d5ef4c75534a8211636a605e54bebb27da0c85f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_75c9e5b59eb1a8b1b897164538ab2409e1525aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_59a9dcf1b0ebec1fde694b80a375c979b2b1f035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9724b0a8da68d7b3fa4d616baa65c6a7c03380cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2e5f576cd95566795c5196d43f2816e18379e92f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_a172779e213d2cb3b7274c2996c910d8754f190d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_5965c12e2654a24b9b01aaf019fab1ad0d391bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_bce904f462c807fafd64df864e165432838ba0ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_ca1b6f213a7b16ca9cfadac83bdc08bd8f90d11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e4d42742ef0e80c95ae560fb185892d2b51803db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_79144855f8d3625c80403eb3cd8ac6aba98bdecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_50bef562713edf3ddcdb9ba928062ef77da8729b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f0c324bc0376be50fbc18b8c2413f5a858495e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_b44e87ab2b9adaf0b036dfb5c3a4c6daf372abc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_7d4b189dce94b0c833f500048e57d124341caba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_cb0b061b851d5f061f9d87464a7661339980edf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b0bad5b0199367df5612c2663f1b1a2d255d7662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/posterific/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf1ed11025efac30fbb54b15043bb22af5d32ba1">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/posterific-react-native-image-crop-picker-unspecified_be7fc75d7a80ff33d7d4b85db02160638825f593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.android/account-kit-sdk/4.23.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f0d3a0c84eb73fd55228e9dc5471140d6295f7a3">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-account-kit-sdk-4.23.0_06bc5ed65a81339a6ee10185fb69ddb3f8837a1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_23270a01c70584c731caa4d9a43acee7d34cf764.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/id.zelory/compressor/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7cca89b82118b140b5c012b0e0def2f35c81592">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-2.0.0_5907a3a4388df31fc812fde8c240b0291063e957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.22.1_8e949ba1c1e2d05dd5dab487fe82d8313d914581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_98bb71f85f54093d86b82f5c616edc112482de73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_18309175321e0cb9d5bada642f186913a6557b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f949ebf897c6ce36f25ba71362eae6b6d79f0ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/posterific/react-native-view-shot/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24aa244436dc56689a6f2893019646951adb692a">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/posterific-react-native-view-shot-unspecified_36d1589ae778e13c2f0b67cec89d406f3dc16ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_86136f05ece7ab9a8f1e2fb57852624c8b8a76f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_e063ca814e371b0572e9607f5c1a75ecee7d4700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_da60f3cc6442b42cd344bdd8f4cfe54569e071ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_5a544666910f58158cfd5bb95b8bbac358258278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_a30406c76b2753394bdaac14608ccf9854ec138b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_93e7d5a2c05dd8da76199fb83040ef27453811df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/posterific/react-native-facebook-account-kit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b3c9649c63a23b7a8397a205bf9ea66566a3eb7">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/posterific-react-native-facebook-account-kit-unspecified_9411dbd942d0fd18cb41c320071c6bc22399b44d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_6bba699d3029726b12c8d6305403818f90329d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/posterific/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="143af12d452828705e39cc0cd83f80ec59a5054f">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/posterific-react-native-fbsdk-unspecified_75a97329bfd5c4b06bb8fe4b4818a617d052437d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ec4eb6998f3da0ba583ff4356fd8b6a90ee7b276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cynux/fb/posterific/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/cynux/fb/posterific/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_32e18135d994e202d03165c438e1ac05df9f9106.jar" />
+    </item>
+
+</items>
